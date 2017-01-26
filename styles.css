@@ -1,0 +1,23 @@
+.ass-status {
+    color: #fdfdfd;
+    margin-bottom: 7px;
+    display: inline-block;
+    background: #797979;
+    padding: 0px 5px 0px 2px;
+}
+
+.ass-status__failed {
+    background: #d64848;
+}
+
+.ass-status__review {
+    background: #48c6d6;
+}
+
+.ass-status__ready {
+    background: #48d656;
+}
+
+.ass-status__default {
+    background: #797979;
+}
